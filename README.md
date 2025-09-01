@@ -8,14 +8,14 @@
 
 
 ### 🌟 Features
-✅ SQL Injection Check
-✅ XSS (Cross-Site Scripting) Check
-✅ Security Header Check (HSTS, CSP, X-Frame-Options)
-✅ Server Information Leak Check
-✅ Directory Listing Check
-✅ Colorful Output and User-Friendly Interface
-✅ Internet Connection Check
-✅ User Interrupt (Ctrl+C) Handling
+# ✅ SQL Injection Check
+# ✅ XSS (Cross-Site Scripting) Check
+# ✅ Security Header Check (HSTS, CSP, X-Frame-Options)
+# ✅ Server Information Leak Check
+# ✅ Directory Listing Check
+# ✅ Colorful Output and User-Friendly Interface
+# ✅ Internet Connection Check
+# ✅ User Interrupt (Ctrl+C) Handling
 
 
 # ⚠️ Note
